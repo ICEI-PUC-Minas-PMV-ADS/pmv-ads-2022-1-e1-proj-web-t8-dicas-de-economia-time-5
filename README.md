@@ -1,23 +1,22 @@
 # Dicas de Economia / Saving Tips
 
-`ADS`
+`Analise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`Primeiro Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Criação de um site que forneça dicas, noticias e simulador de economia/investimentos para pessoas que se estão se interresando pelo assunto, ou que já possuem certa experiência no mercado financeiro.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Walber Gomes Soares 
+* Nome completo do aluno 2 (a preencer)
+* Nome completo do aluno 3 (a preencer)
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
