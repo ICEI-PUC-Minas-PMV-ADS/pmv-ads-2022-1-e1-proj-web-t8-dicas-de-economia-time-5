@@ -1,6 +1,6 @@
-# TÍTULO DO PROJETO
+# Dicas de Economia / Saving Tips
 
-`CURSO`
+`ADS`
 
 `DISCIPLINA`
 
