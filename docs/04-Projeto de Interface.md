@@ -57,3 +57,19 @@ Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele
 ### Tela - Leitura Noticias
 
 A tela de Leitura de Notícia apresenta uma notícia especifica que o usuário escolheu na Home-Page. Dois botões onde ele pode salvar e compartilhar essa mesma notícia. E um botão que ao clica-lo, o usuário retornara à Home-Page.
+
+### Tela - Salvar Notícias Preferidas
+
+A tela que permite o salvamento de notícias preferidas é uma janela modal (surge sobre outras janelas) quando o usuário pressiona o ícone de bandeira na tela de Leitura de Notícia. Nesta tela, a notícia a ser salva é visualizada e o usuário pode informar uma pasta ou escolher entre as já cadastradas. Em seguida deve confirmar ou cancelar o salvamento. Na sequência, a tela é fechada voltando para o ambiente anterior onde o ícone de bandeira é apresentado agora de outra cor.
+
+### Tela - Notícias Preferidas
+
+A tela de Notícias Preferidas apresenta a relação de notícias salvas pelo usuário. Nesta tela, as notícias são divididas em pastas informadas pelo usuário. Clicando na barra, o usuário pode selecionar de qual pasta ele quer visualizar as notícias salvas. Ao clicar em uma notícia é disparada a tela de visualização de notícia. 
+
+
+### Tela - Simulador de Investimentos 
+
+Na tela que permite ao usuário simule o investimento a realizar, deve-se informar o valor a se investir e o prazo para resgate. Em seguida, deve-se clicar em simular. Também permite que o usuário compre a rentabilidade, informando o valor investido e o tipo de investimento e, posteriormente marcando o indicador de comparação. Após clicar em simular o sistema irá plotar um gráfico comparativo.
+
+
+
