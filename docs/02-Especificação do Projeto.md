@@ -15,13 +15,9 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Antônia Maria Silva | visualizar as notícias mais relevantes do momento         | tomar ciência dos acontecimentos na área da economia               |
-|Antônia Maria Silva |
-	Buscar informações para leigos em economia |	Gastar tempo com algo que realmente vá me trazer conhecimento.
-               | Gastar tempo com algo que realmente vá me trazer conhecimento. |
-|Antônia Maria Silva | Antônia Maria Silva
-	Não ser leiga, ter o mínimo de conhecimento 	Para não cair em golpes ou investir errado
-           | Para não cair em golpes ou investir errado              |
+|Antônia Maria Silva | visualizar as notícias mais relevantes do momento| tomar ciência dos acontecimentos na área da economia|
+|Antônia Maria Silva |Buscar informações para leigos em economia |Gastar tempo com algo que realmente vá me trazer conhecimento| 
+|Antônia Maria Silva |	Não ser leiga, ter o mínimo de conhecimento | Para não cair em golpes ou investir errado|
 |Antônia Maria Silva | Conhecer maneiras de investir com segurança                | Preservação do patrimonio |
 |Gabriel Almeida  | Ter um passo a passo de por onde começar a investir           | Para começar a montar sua carteira de investimento de modo seguro             |
 |Gabriel Almeida  | Ficar bem informado quanto aos melhores títulos públicos federais do momento           | Para economizar tempo e tomar decisões assertivas            |
