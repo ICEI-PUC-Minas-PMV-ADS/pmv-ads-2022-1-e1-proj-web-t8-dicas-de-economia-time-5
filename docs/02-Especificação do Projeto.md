@@ -17,7 +17,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |--------------------|------------------------------------|----------------------------------------|
 |Antônia Maria Silva | visualizar as notícias mais relevantes do momento         | tomar ciência dos acontecimentos na área da economia               |
 |Antônia Maria Silva |
-	Buscar informações para leigos em economia 	Gastar tempo com algo que realmente vá me trazer conhecimento.
+	Buscar informações para leigos em economia |	Gastar tempo com algo que realmente vá me trazer conhecimento.
                | Gastar tempo com algo que realmente vá me trazer conhecimento. |
 |Antônia Maria Silva | Antônia Maria Silva
 	Não ser leiga, ter o mínimo de conhecimento 	Para não cair em golpes ou investir errado
