@@ -21,13 +21,13 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 -	Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
 
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![Exemplo de Wireframe](img/imagem1.PNG)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
 
 ### Tela - Home-Page
-
+(img/home.PNG)
 A tela de Home-Page traz notícias da atualidade relacionado ao mundo da economia como, melhores títulos pré-fixados do momento, uma barra na parte superior com informações rápidas (variações de câmbio, dívida pública referente ao ano anterior, entre outros), um botão que redireciona para uma página devida onde o usuário poderá realizar simulações de investimentos, um botão para pesquisar assuntos específicos, e um ícone de login caso o usuário queira vincular uma conta para manter guardados suas notícias favoritas.
 
 
