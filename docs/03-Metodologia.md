@@ -31,10 +31,10 @@ Equipe de Desenvolvimento
         Rayanne
 
 Equipe de Design
-     ○	Walber
-     ○	Juliana
-     ○	Rayanne
 
+- Walber
+- Juliana
+- Rayanne
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello (GITHUB) estruturado com as seguintes listas: 
 
