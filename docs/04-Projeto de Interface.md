@@ -59,11 +59,14 @@ Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele
 A tela de Leitura de Notícia apresenta uma notícia especifica que o usuário escolheu na Home-Page. Dois botões onde ele pode salvar e compartilhar essa mesma notícia. E um botão que ao clica-lo, o usuário retornara à Home-Page.
 
 ### Tela - Salvar Notícias Preferidas
-![Exemplo de UserFlow](img/preferidas.PNG)
+![Exemplo de UserFlow](img/favoritas.PNG)
+
 A tela que permite o salvamento de notícias preferidas é uma janela modal (surge sobre outras janelas) quando o usuário pressiona o ícone de bandeira na tela de Leitura de Notícia. Nesta tela, a notícia a ser salva é visualizada e o usuário pode informar uma pasta ou escolher entre as já cadastradas. Em seguida deve confirmar ou cancelar o salvamento. Na sequência, a tela é fechada voltando para o ambiente anterior onde o ícone de bandeira é apresentado agora de outra cor.
 
 ### Tela - Notícias Preferidas
-![Exemplo de UserFlow](img/favoritas.PNG)
+
+![Exemplo de UserFlow](img/preferidas.PNG)
+
 A tela de Notícias Preferidas apresenta a relação de notícias salvas pelo usuário. Nesta tela, as notícias são divididas em pastas informadas pelo usuário. Clicando na barra, o usuário pode selecionar de qual pasta ele quer visualizar as notícias salvas. Ao clicar em uma notícia é disparada a tela de visualização de notícia. 
 
 
