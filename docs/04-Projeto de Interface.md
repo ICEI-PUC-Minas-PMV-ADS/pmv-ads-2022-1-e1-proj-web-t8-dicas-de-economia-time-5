@@ -5,6 +5,8 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 ## Fluxo do Usuário
 
+O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto.
+
 ![Exemplo de UserFlow](img/userflow.jpg)
 
 O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto.
@@ -17,15 +19,41 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 
 ## Wireframes
 
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
+-	Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
+-	Conteúdo - apresenta o conteúdo da tela em questão;
+-	Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
+
+
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+
+### Tela - Home-Page
+
+A tela de Home-Page traz notícias da atualidade relacionado ao mundo da economia como, melhores títulos pré-fixados do momento, uma barra na parte superior com informações rápidas (variações de câmbio, dívida pública referente ao ano anterior, entre outros), um botão que redireciona para uma página devida onde o usuário poderá realizar simulações de investimentos, um botão para pesquisar assuntos específicos, e um ícone de login caso o usuário queira vincular uma conta para manter guardados suas notícias favoritas.
+
+
+### Tela - Login
+
+A tela de login permite o usuário vincular uma conta de seu Gmail já existente ao site para que ele possa salvar e rever suas notícias favoritas na frequência que desejar. Admitindo também a possibilidade de desfrutar de demais funcionalidades que podem ser inseridas no site de maneira personalizada pelo gosto usuário.
+
+### Tela - Menu
+
+Ao clicar nos três traços indicados no canto superior esquerdo da tela, aparecerá uma barra lateral contendo o menu e suas funcionalidades.
+-	Categorias, onde o usuário poderá encontrar notícias por tópicos específicos
+-	Favoritos, onde o usuário poderá salvar suas notícias para ler depois 
+-Dicionário de Termos, o usuário poderá pesquisar por palavras chaves ou termos específicos utilizados no mundo da economia. (ex: IPO, Selic, CDB e etc)
+
+### Tela - Dicionário Termos
+
+No dicionário de termos, o usuário poderá pesquisar por termos de economia que ele ouviu falar nos jornais, rádios, ou no dia a dia, como, “O que é IPO, FII, Taxa Selic entre outros.” Assim, ele poderá desenvolver melhor seu vocabulário e aprofundar seu conhecimento.
+
+### Tela - Resultado de Pesquisa
+
+Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele é direcionado para uma tela que traz a relação de notícias associadas ao tópico informado. Este resultado é apresentado na Figura a seguir.
+
+### Tela - Leitura Noticias
+
+A tela de Leitura de Notícia apresenta uma notícia especifica que o usuário escolheu na Home-Page. Dois botões onde ele pode salvar e compartilhar essa mesma notícia. E um botão que ao clica-lo, o usuário retornara à Home-Page.
