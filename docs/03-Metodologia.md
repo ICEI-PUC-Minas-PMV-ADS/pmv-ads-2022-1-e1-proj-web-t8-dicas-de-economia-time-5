@@ -21,19 +21,16 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
-|Scrum Master:  | Juliana |
+Scrum Master:  Juliana 
 
-|	Product Owner:  | Walber |
+Product Owner:  Walber
 
+Equipe de Desenvolvimento
+        Walber
+        Juliana
+        Rayanne
 
-
-  ●	Scrum Master: Juliana
-  ●	Product Owner: Walber
-  ●	Equipe de Desenvolvimento
-      ○	Walber
-      ○	Juliana
-      ○	Rayanne
-●	Equipe de Design
+Equipe de Design
      ○	Walber
      ○	Juliana
      ○	Rayanne
