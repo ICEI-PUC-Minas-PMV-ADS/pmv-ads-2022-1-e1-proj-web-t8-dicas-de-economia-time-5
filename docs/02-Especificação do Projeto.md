@@ -6,26 +6,19 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 Antônia Maria Silva tem 55 anos, é arquiteto professora aposentada. Pensa em conseguir mudar a realidade financeira da sua família. Deixar o patrimônio seguro para os filhos.	Poder viajar o mundo sem preocupar com dinheiro. Possuiu algumas frustações: viu a mãe tomar uma decisão errada com base na opinião de sua gerente;	Acredita que tudo de economia é um bicho de 4 cabeças.
 
-Gabriel Almeida tem 23 anos, é arquiteto professora aposentada. Pensa em conseguir mudar a realidade financeira da sua família. Deixar o patrimônio seguro para os filhos.	Poder viajar o mundo sem preocupar com dinheiro. Possuiu algumas frustações: viu a mãe tomar uma decisão errada com base na opinião de sua gerente;	Acredita que tudo de economia é um bicho de 4 cabeças.
+Gabriel Almeida tem 23 anos, é operador de mídia audiovisual, funcionário de uma emissora de TV aberta. Pensa em conseguir melhorar qualidade de vida; maior poder aquisitivo e viver de renda passiva no futuro. Possuiu algumas frustações: teve parentes que caíram em golpes de sorteio por telefone; vitima da UnickForex - pirâmide.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
+|Antônia Maria Silva | visualizar as notícias mais relevantes do momento         | tomar ciência dos acontecimentos na área da economia               |
+|Antônia Maria Silva | Alterar permissões                 | Permitir que possam administrar contas |
+|Antônia Maria Silva | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Antônia Maria Silva | Alterar permissões                 | Permitir que possam administrar contas |
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
