@@ -23,11 +23,9 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 A equipe está organizada da seguinte maneira:
 |Scrum Master:  | Juliana |
 |	Product Owner:  | Walber |
-|------|-----------------------------------------|----|
-|Repositório de código fonte|GitHub| https://github.com/rommelcarneiro/tiaw-template | 
-|Documentos do projeto| GitHub  | https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24  |
-|Projeto de Interface e  Wireframes| MarvelApp | https://marvelapp.com/prototype/aig0ai5/screen/86349252 | 
-|Gerenciamento do Projeto| GitHub  | |
+
+
+
   ●	Scrum Master: Juliana
   ●	Product Owner: Walber
   ●	Equipe de Desenvolvimento
