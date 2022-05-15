@@ -1,14 +1,12 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Antônia Maria Silva tem 55 anos, é arquiteto professora aposentada. Pensa em conseguir mudar a realidade financeira da sua família. Deixar o patrimônio seguro para os filhos.	Poder viajar o mundo sem preocupar com dinheiro. Possuiu algumas frustações: viu a mãe tomar uma decisão errada com base na opinião de sua gerente;	Acredita que tudo de economia é um bicho de 4 cabeças.
+
+Gabriel Almeida tem 23 anos, é arquiteto professora aposentada. Pensa em conseguir mudar a realidade financeira da sua família. Deixar o patrimônio seguro para os filhos.	Poder viajar o mundo sem preocupar com dinheiro. Possuiu algumas frustações: viu a mãe tomar uma decisão errada com base na opinião de sua gerente;	Acredita que tudo de economia é um bicho de 4 cabeças.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
