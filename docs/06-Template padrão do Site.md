@@ -53,7 +53,7 @@ A tela de Notícias Preferidas apresenta a relação de notícias salvas pelo us
 Na tela que permite ao usuário simule o investimento a realizar, deve-se informar o valor a se investir e o prazo para resgate. Em seguida, deve-se clicar em simular. Também permite que o usuário compre a rentabilidade, informando o valor investido e o tipo de investimento e, posteriormente marcando o indicador de comparação. Após clicar em simular o sistema irá plotar um gráfico comparativo.
 
 
-![Exemplo de UserFlow](img/simulade.PNG)
+![Exemplo de UserFlow](img/simule.PNG)
 
 A página já se encontra em desenvolvimento, havendo necessidade de adequações de estética, padronização, organização da pagina, assim como, cabeçalho e rodapé.
 
