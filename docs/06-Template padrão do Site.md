@@ -47,8 +47,13 @@ A tela que permite o salvamento de notícias preferidas é uma janela modal (sur
 A tela de Notícias Preferidas apresenta a relação de notícias salvas pelo usuário. Nesta tela, as notícias são divididas em pastas informadas pelo usuário. Clicando na barra, o usuário pode selecionar de qual pasta ele quer visualizar as notícias salvas. Ao clicar em uma notícia é disparada a tela de visualização de notícia. 
 
 
-### Tela - Simulador de Investimentos 
+### Tela - Simulador de Investimentos - Juliana
 ![Exemplo de UserFlow](img/simulador.PNG)
 
 Na tela que permite ao usuário simule o investimento a realizar, deve-se informar o valor a se investir e o prazo para resgate. Em seguida, deve-se clicar em simular. Também permite que o usuário compre a rentabilidade, informando o valor investido e o tipo de investimento e, posteriormente marcando o indicador de comparação. Após clicar em simular o sistema irá plotar um gráfico comparativo.
+
+
+![Exemplo de UserFlow](img/simulade.PNG)
+
+A página já se encontra em desenvolvimento, havendo necessidade de adequações de estética, padronização, organização da pagina, assim como, cabeçalho e rodapé.
 
