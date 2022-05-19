@@ -1,10 +1,11 @@
 # Template padrão do site
 
 ### Tela - Home-Page - Walber
-![Exemplo de UserFlow](img/home.PNG) ![homepage done](https://user-images.githubusercontent.com/103972585/169180872-138ace64-780d-4556-9a48-02b9d462d0f2.png)
+![Exemplo de UserFlow](img/home.PNG) 
+![homepage done](https://user-images.githubusercontent.com/103972585/169180872-138ace64-780d-4556-9a48-02b9d462d0f2.png)
 
 
-A tela de Home-Page traz notícias da atualidade relacionado ao mundo da economia como, melhores títulos pré-fixados do momento, uma barra na parte superior com informações rápidas (variações de câmbio, dívida pública referente ao ano anterior, entre outros), um botão que redireciona para uma página devida onde o usuário poderá realizar simulações de investimentos, um botão para pesquisar assuntos específicos, e um ícone de login caso o usuário queira vincular uma conta para manter guardados suas notícias favoritas.
+A tela de Home-Page traz notícias da atualidade relacionado ao mundo da economia como, melhores títulos pré-fixados do momento, uma barra na parte superior com informações rápidas (variações de câmbio, dívida pública referente ao ano anterior, entre outros), um botão que redireciona para uma página devida onde o usuário poderá realizar simulações de investimentos, um botão para pesquisar assuntos específicos.
 
 
 ### Tela - Login
