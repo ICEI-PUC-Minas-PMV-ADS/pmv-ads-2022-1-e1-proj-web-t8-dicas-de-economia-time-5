@@ -34,7 +34,7 @@ Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele
 ### Tela - Leitura Noticias
 
 ![Exemplo de UserFlow](img/noticias.PNG)
-
+![Exemplo de UserFlow](img/noticias.PNG)
 
 A tela de Leitura de Notícia apresenta uma notícia especifica que o usuário escolheu na Home-Page. Dois botões onde ele pode salvar e compartilhar essa mesma notícia. E um botão que ao clica-lo, o usuário retornara à Home-Page.
 
@@ -46,7 +46,7 @@ A tela que permite o salvamento de notícias preferidas é uma janela modal (sur
 ### Tela - Notícias Preferidas
 
 ![Exemplo de UserFlow](img/preferidas.PNG)
-![Exemplo de UserFlow](img/noticia.PNG)
+![Exemplo de UserFlow](img/noticias.PNG)
 
 A tela de Notícias Preferidas apresenta a relação de notícias salvas pelo usuário. Nesta tela, as notícias são divididas em pastas informadas pelo usuário. Clicando na barra, o usuário pode selecionar de qual pasta ele quer visualizar as notícias salvas. Ao clicar em uma notícia é disparada a tela de visualização de notícia. 
 
