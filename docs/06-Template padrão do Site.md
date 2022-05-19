@@ -46,7 +46,7 @@ A tela que permite o salvamento de notícias preferidas é uma janela modal (sur
 ### Tela - Notícias Preferidas
 
 ![Exemplo de UserFlow](img/preferidas.PNG)
-![Exemplo de UserFlow](img/noticia.PHG)
+![Exemplo de UserFlow](img/noticia.PNG)
 
 A tela de Notícias Preferidas apresenta a relação de notícias salvas pelo usuário. Nesta tela, as notícias são divididas em pastas informadas pelo usuário. Clicando na barra, o usuário pode selecionar de qual pasta ele quer visualizar as notícias salvas. Ao clicar em uma notícia é disparada a tela de visualização de notícia. 
 
