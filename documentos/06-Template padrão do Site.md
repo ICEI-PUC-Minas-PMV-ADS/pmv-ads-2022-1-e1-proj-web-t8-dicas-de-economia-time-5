@@ -34,6 +34,8 @@ Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele
 ### Tela - Leitura Noticias
 
 ![Exemplo de UserFlow](img/noticias.PNG)
+![Exemplo de UserFlow] (img/noticia.PNG)
+
 
 A tela de Leitura de Notícia apresenta uma notícia especifica que o usuário escolheu na Home-Page. Dois botões onde ele pode salvar e compartilhar essa mesma notícia. E um botão que ao clica-lo, o usuário retornara à Home-Page.
 
