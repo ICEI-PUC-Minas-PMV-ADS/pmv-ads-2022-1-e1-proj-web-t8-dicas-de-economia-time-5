@@ -12,7 +12,7 @@ Criação de um site que forneça dicas, noticias e simulador de economia/invest
 
 * Walber Gomes Soares 
 * Nome completo do aluno 2 (a preencer)
-* Nome completo do aluno 3 (a preencer)
+* Rayane Silva dos Santos 
 
 ## Orientador
 
