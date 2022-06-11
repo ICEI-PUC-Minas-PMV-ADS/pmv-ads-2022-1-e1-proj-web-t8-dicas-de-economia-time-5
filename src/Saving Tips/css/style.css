@@ -29,3 +29,19 @@ background-color: rgba(0, 0, 0, 0.7)
 .rodape {
     color:white ;
 }
+
+footer{
+    clear: both;
+}
+
+#barraCotacoes {
+    color: snow;
+    margin: 20px;
+    text-align: center;
+}
+
+.cotacBar {
+    width: 205px;
+    float: left;
+}
+
