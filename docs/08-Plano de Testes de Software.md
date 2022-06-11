@@ -7,8 +7,9 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 ## Descrição do Plano de Testes
 #### HomePage
 
-> - O site deve apresentar na Home Page noticias do momento que ao clicar, o usuário será redirecionado para uma outra página onde poderá visualizar a noticia por completo
+> - O site deve apresentar na Home Page noticias do momento que ao clicar, o usuário será redirecionado para uma outra página onde poderá visualizar a noticia por completo.
 > - O site deve apresentar cotações de ativos utilizando JSON. 
+> - O site deve funcionar em todos os tipos de navegadores.
 
 ## Ferramentas de Testes (Opcional)
 
