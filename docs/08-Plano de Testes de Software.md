@@ -4,8 +4,12 @@
 
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
+## Descrição do Plano de Testes
+#### HomePage
+
+> - O site deve apresentar na Home Page noticias do momento que ao clicar, o usuário será redirecionado para uma outra página onde poderá visualizar a noticia por completo
+> - O site deve apresentar cotações de ativos utilizando JSON. 
+
 ## Ferramentas de Testes (Opcional)
 
 Comente sobre as ferramentas de testes utilizadas.
