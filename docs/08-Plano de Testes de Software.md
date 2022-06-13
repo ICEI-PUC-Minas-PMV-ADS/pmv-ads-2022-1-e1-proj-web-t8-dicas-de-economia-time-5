@@ -11,6 +11,12 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 > - O site deve apresentar cotações de ativos utilizando JSON. 
 > - O site deve funcionar em todos os tipos de navegadores.
 
+#### Leitura de Notícias
+
+> - O site deve permitir ao usuário visualizar o texto completo da notícia com todos os detalhes da publicação
+> - Verificar se as notícias estão sendo apresentadas completamente na página de leitura da notícia.
+> - A página deve apresentar o título da notícia, imagem de destaque da notícia, data da notícia, autor da notícia e o texto completo da notícia.
+
 ## Ferramentas de Testes (Opcional)
 
 Comente sobre as ferramentas de testes utilizadas.
