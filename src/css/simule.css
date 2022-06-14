@@ -1,0 +1,113 @@
+body{
+    background-color: #262626; 
+    font: 16px arial, helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.centralizar{
+    text-align: center;
+}
+
+#simulador{
+    background-color: rgba(92, 86, 86, 0.959);
+    text-align: center;
+    color:rgb(248, 241, 241);
+    font-size: 32px;
+
+}
+
+h2{
+    text-align: center;
+    background-color:rgb(92, 86, 86);
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 18px;
+}
+
+#tipoInvestimento{
+    padding: 18px;
+    text-align: center;
+    background-color: rgba(110, 98, 98, 0.699);
+}
+
+h4{
+    background-color: rgba(92, 86, 86, 0.959);
+    color:rgb(248, 241, 241); 
+}
+
+.format{
+    background-color:rgb(92, 86, 86);
+    color:rgb(248, 241, 241);
+    font-style: italic;
+    padding: 13px;
+}
+
+.teste{
+    display:inline-table;
+}
+
+/*
+Modal
+*/
+
+.tudo {
+    position: relative;
+    width: 0px;
+    height: 0px;
+    background: #9800ce;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.8s;
+}
+
+.tudo.active {
+    width: 400px;
+    height: 400px;
+    transition: 0.5s;
+}
+
+.tudo.active::before {
+    opacity: 1;
+    transition: 0.5s;    
+}
+
+.tudo::before {
+    content: '';
+    position: absolute;
+    bottom: -15px;
+    width: 40px;
+    height: 40px;
+    background: #333333;
+    border-radius: 5px;
+    transform: rotate(45deg);
+    opacity: 0;
+    transition: 0.5s;
+    transition-delay: 0.5s;
+}
+
+.tudo .content {
+    min-width: 400px;
+    padding: 40px;
+    opacity: 0;
+    transform: scale(0);
+    transition: 0.5s;    
+}
+
+.tudo.active .content {
+    opacity: 1;
+    transform: scale(1);
+    transition: 0.8s;
+}
+
+.tudo .content h3 {
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.tudo .content p {
+    font-weight: bold;
+    color: #fff;
+}
