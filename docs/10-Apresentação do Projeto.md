@@ -3,6 +3,8 @@
 <span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
 
 Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
+[Savetips.pptx](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t8-dicas-de-economia-time-5/files/8988199/Savetips.pptx)
+
 
 ## Título do Projeto
 
