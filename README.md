@@ -11,7 +11,7 @@ Criação de um site que forneça dicas, noticias e simulador de economia/invest
 ## Integrantes
 
 * Walber Gomes Soares 
-* Nome completo do aluno 2 (a preencer)
+* Juliana Machado Madureira
 * Rayane Silva dos Santos 
 
 ## Orientador
