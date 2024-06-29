@@ -1,0 +1,25 @@
+message: Please cite this software using these metadata.
+title: Dicas de Economia
+authors:
+  - family-names: Gomes Soares
+    given-names: Walber
+  - family-names: Machado Madureira
+    given-names: Juliana
+  - family-names: Silva dos Santos
+    given-names: Rayane 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: 
+    given-names: 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ricardo dos Santos Machado
+    given-names: Will 
+keywords:
+  - Economia
+  - Dicas
+  - Dinheiro
+  - Investimento
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t8-dicas-de-economia-time-5/tree/main
+version: 1.0.0
+date-released: 2024-06-29
